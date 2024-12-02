@@ -35,3 +35,15 @@ Charts (Bar, Line, and Pie) were employed for data visualization to help in deci
 Conditional Formatting: Applied to highlight key metrics such as low stock levels, high-profit products, or top-performing categories.
 
 Trend Analysis: Conducted using line charts to visualize changes in sales over time.
+
+# How to Use
+
+• Download the dataset and place it in the same folder as the provided Excel file.
+• Open the Excel file and navigate to the various sheets for the corresponding analysis:
+• Sales Performance: View total sales and profit by product category.
+• Customer Insights: Analyze customer purchase trends.
+• Inventory Analysis: Review product turnover and stock levels.
+• Profitability: View key metrics for top-performing products.
+• Trend Analysis: Visualize sales fluctuations over time.
+
+Use the Pivot Tables and Charts for deeper exploration of the data.
